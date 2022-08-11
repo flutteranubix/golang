@@ -1,0 +1,1 @@
+simple Logic to get username and password in Golang
